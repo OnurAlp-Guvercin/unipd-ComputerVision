@@ -1,5 +1,4 @@
 Task 1
-
 Filters and histogram equalization
 Write a program that loads the image provided (image.jpg) and shows it. 
 It then converts the image to grayscale (cv::cvtColor() function) and saves it with the image_grayscale.jpg name. 
